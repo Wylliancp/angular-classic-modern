@@ -26,13 +26,13 @@ Sample project created to showcase the latest Angular features:
 Main page with products list:
 
 <p align="center">
-  <img src="./docs/products.jpeg" alt="Main Page" width="100%">
+  <img src="./docs/itens.png" alt="Main Page" width="100%">
 </p>
 
 Cart page:
 
 <p align="center">
-  <img src="./docs/cart.jpeg" alt="Cart Page" width="100%">
+  <img src="./docs/carrinho.png" alt="Cart Page" width="100%">
 </p>
 
 ## Executing the code locally
